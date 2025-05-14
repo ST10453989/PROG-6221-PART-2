@@ -1,0 +1,22 @@
+C:\Users\RC_Student_lab\source\repos\PROG 6221-PART 1\bin\Debug\net8.0\PROG 6221-PART 1.exe
+C:\Users\RC_Student_lab\source\repos\PROG 6221-PART 1\bin\Debug\net8.0\PROG 6221-PART 1.deps.json
+C:\Users\RC_Student_lab\source\repos\PROG 6221-PART 1\bin\Debug\net8.0\PROG 6221-PART 1.runtimeconfig.json
+C:\Users\RC_Student_lab\source\repos\PROG 6221-PART 1\bin\Debug\net8.0\PROG 6221-PART 1.dll
+C:\Users\RC_Student_lab\source\repos\PROG 6221-PART 1\bin\Debug\net8.0\PROG 6221-PART 1.pdb
+C:\Users\RC_Student_lab\source\repos\PROG 6221-PART 1\bin\Debug\net8.0\NAudio.dll
+C:\Users\RC_Student_lab\source\repos\PROG 6221-PART 1\bin\Debug\net8.0\NAudio.Asio.dll
+C:\Users\RC_Student_lab\source\repos\PROG 6221-PART 1\bin\Debug\net8.0\NAudio.Core.dll
+C:\Users\RC_Student_lab\source\repos\PROG 6221-PART 1\bin\Debug\net8.0\NAudio.Midi.dll
+C:\Users\RC_Student_lab\source\repos\PROG 6221-PART 1\bin\Debug\net8.0\NAudio.Wasapi.dll
+C:\Users\RC_Student_lab\source\repos\PROG 6221-PART 1\bin\Debug\net8.0\NAudio.WinMM.dll
+C:\Users\RC_Student_lab\source\repos\PROG 6221-PART 1\obj\Debug\net8.0\PROG 6221-PART 1.csproj.AssemblyReference.cache
+C:\Users\RC_Student_lab\source\repos\PROG 6221-PART 1\obj\Debug\net8.0\PROG 6221-PART 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RC_Student_lab\source\repos\PROG 6221-PART 1\obj\Debug\net8.0\PROG 6221-PART 1.AssemblyInfoInputs.cache
+C:\Users\RC_Student_lab\source\repos\PROG 6221-PART 1\obj\Debug\net8.0\PROG 6221-PART 1.AssemblyInfo.cs
+C:\Users\RC_Student_lab\source\repos\PROG 6221-PART 1\obj\Debug\net8.0\PROG 6221-PART 1.csproj.CoreCompileInputs.cache
+C:\Users\RC_Student_lab\source\repos\PROG 6221-PART 1\obj\Debug\net8.0\PROG 622.79632E9D.Up2Date
+C:\Users\RC_Student_lab\source\repos\PROG 6221-PART 1\obj\Debug\net8.0\PROG 6221-PART 1.dll
+C:\Users\RC_Student_lab\source\repos\PROG 6221-PART 1\obj\Debug\net8.0\refint\PROG 6221-PART 1.dll
+C:\Users\RC_Student_lab\source\repos\PROG 6221-PART 1\obj\Debug\net8.0\PROG 6221-PART 1.pdb
+C:\Users\RC_Student_lab\source\repos\PROG 6221-PART 1\obj\Debug\net8.0\PROG 6221-PART 1.genruntimeconfig.cache
+C:\Users\RC_Student_lab\source\repos\PROG 6221-PART 1\obj\Debug\net8.0\ref\PROG 6221-PART 1.dll
